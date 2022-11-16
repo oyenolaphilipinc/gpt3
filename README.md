@@ -3,8 +3,8 @@
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
-## Built in React and Tailwind
-This app is React heavy and tailwind included. This app is used for learning and improving my React and front end skills.
+## Built in React and CSS
+This app is React heavy and CSS included. This app is used for learning and improving my React and front end skills.
 
 ## Introduction
 
